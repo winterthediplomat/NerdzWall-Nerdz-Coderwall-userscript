@@ -27,7 +27,7 @@ MyCoderwallBadges=function(objName, username)
 	    $("#coderwall_badges").append(
 	         $('<img>').attr('src', currentBadge.badge)
 		           .attr('title', currentBadge.name)
-			   .attr('alt', currentBadge.name)
+			   .attr('alt', currentBadge.name+": "+currentBadge.description)
 			   .attr('width', 140)
 			   .attr('lenght', 140)
 	     );
