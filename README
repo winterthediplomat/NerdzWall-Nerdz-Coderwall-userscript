@@ -1,0 +1,18 @@
+Coderwall has some neat APIs.
+Nerdz supports userscripts.
+I want to learn JavaScript.
+I have a lot a spare time.
+
+This is the result: a Nerdz userscript that shows
+Coderwall badges of a user (if registered on Coderwall, obv).
+Simple and useless, isn't it?
+
+INSTALL
+>log in on Nerdz
+>click on "Preferences" link
+>open the "Profile" tab
+>insert the link of "raw version" of the script in the Userscript field.
+>enjoy.
+
+TROUBLESHOOTING
+>open an issue.
